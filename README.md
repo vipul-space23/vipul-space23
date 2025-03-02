@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm [Vipul Patil]!</h1>
+<h1 align="center">👋 Hey there, I'm Vipul Patil!</h1>
 <p align="center">
   🚀 <strong>  Full-Stack Developer | AI Enthusiast</strong>  
 </p>
