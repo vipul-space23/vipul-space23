@@ -64,12 +64,12 @@ I am a **passionate software developer** skilled in Java, Python, and the MERN s
 - Integrated multi-language chatbot and financial product comparison features.
 - **Tech:** Python, Flask, MERN Stack
 
-### 🔥 Fire Department Evaluation System(https://github.com/vipul-space23/Fire-Department-Evaluation-Software.git)
+### 🔥 [Fire Department Evaluation System](https://github.com/vipul-space23/Fire-Department-Evaluation-Software.git)
 - Built a platform to manage inspection requests, schedules, and follow-ups.
 - Designed an interactive dashboard for monitoring progress and issuing NOCs.
 - **Tech:** React.js, Node.js, Express.js, MongoDB
 
-### 🌐 Job Portal Website(https://github.com/vipul-space23/JobVoyage-JOB-PORTAL-WEBSITE.git)
+### 🌐 [Job Portal Website](https://github.com/vipul-space23/JobVoyage-JOB-PORTAL-WEBSITE.git)
 - Developed a job portal connecting job seekers and employers.
 - Designed dashboards for job listing management and real-time notifications.
 - **Tech:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
