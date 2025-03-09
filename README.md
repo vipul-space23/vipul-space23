@@ -1,59 +1,55 @@
-# 👋 Hey there! I'm [Vipul Patil]
+# Hi there, I'm Vipul Patil! 👋
+
+![GitHub Profile Animation](https://github.com/vipul-space23/vipul-space23/blob/main/banner.gif)
 
 ## 🚀 About Me
 
-🎓 **3rd Year IT Student** | Passionate about **DevOps & Full-Stack Development**  
-💻 Building scalable applications using **MERN, Next.js, Tailwind CSS, and Flask**  
-🛠️ Exploring **Cloud, Kubernetes, CI/CD, Terraform & Monitoring Tools**  
-🔍 Currently working on **AI-Powered Job Portal & Interview Assistant**  
-📍 Based in **Mumbai, India**  
+I am a **passionate software developer** skilled in Java, Python, and the MERN stack. With expertise in building **AI-driven tools, dynamic web applications, and interactive dashboards**, I focus on delivering impactful, user-friendly solutions. I am always eager to explore new technologies and streamline workflows for efficiency.
+
+🔭 **Currently Working On:**
+- 🚀 Building AI-powered solutions for job recruitment.
+- 🌐 Enhancing my MERN stack projects.
+- 📚 Mastering DevOps technologies and cloud platforms.
+
+## 🛠️ Tech Stack
+
+- **Languages:** Java, Python, JavaScript
+- **Frontend:** React.js, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, Express.js, Flask
+- **Databases:** MySQL, MongoDB
+- **DevOps & Tools:** Docker, Kubernetes, Terraform, CI/CD, AWS, Azure, Git
+
+## 📌 Projects
+
+### [AI-Powered-Finance-Helper](https://github.com/vipul-space23/AI-Powered-Finance-Helper)
+- Developed an AI tool for financial inclusion, providing insights and government scheme updates.
+- Integrated multi-language chatbot and financial product comparison features.
+- **Tech:** Python, Flask, MERN Stack
+
+### Fire Department Evaluation System
+- Built a platform to manage inspection requests, schedules, and follow-ups.
+- Designed an interactive dashboard for monitoring progress and issuing NOCs.
+- **Tech:** React.js, Node.js, Express.js, MongoDB
+
+### Job Portal Website
+- Developed a job portal connecting job seekers and employers.
+- Designed dashboards for job listing management and real-time notifications.
+- **Tech:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
+
+## 📈 GitHub Stats
+
+![Vipul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vipul-space23&show_icons=true&theme=radical)
+
+## 🌍 Connect with Me
+
+📩 Email: [vipulpatil2500@gmail.com](mailto:vipulpatil2500@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/vipul-space23)  
+📂 [GitHub](https://github.com/vipul-space23)
+
+## ✨ Fun Fact
+
+🔥 I’m currently exploring AI-powered automation in DevOps and cloud computing!
 
 ---
 
-## 🏆 Featured Projects
-
-### 🚒 **Fire Department Evaluation Software**  
-_A tool for evaluating fire department efficiency using AI-powered insights._  
-![Fire Department Evaluation Software](https://via.placeholder.com/800x400?text=Fire+Department+Evaluation+Software)  
-
-### 💼 **JobVoyage - Job Portal Website**  
-_A modern job-seeking platform with AI guidance._  
-![JobVoyage - Job Portal Website](https://via.placeholder.com/800x400?text=JobVoyage+-+Job+Portal+Website)  
-
-### 💰 **AI-Powered Finance Helper**  
-_An AI-based finance assistant to help with budgeting and expense tracking._  
-![AI-Powered Finance Helper](https://via.placeholder.com/800x400?text=AI-Powered+Finance+Helper)  
-
----
-
-## ⚡ Tech Stack
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![n8n](https://img.shields.io/badge/n8n-0B1019?style=for-the-badge&logo=n8n&logoColor=orange)  
-
----
-
-## 🎭 Interactive GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)  
-
----
-🔥 Always learning and building cool stuff! Let's connect and grow together. 🚀
-
+_"Code, Innovate, and Evolve!"_ 🚀
