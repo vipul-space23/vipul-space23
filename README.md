@@ -1,43 +1,51 @@
-# 👋 Hello, I'm Vipul Patil! 🚀 Software Innovator | AI Enthusiast | Full-Stack Developer 💡
+# 👋 Hello, I'm Vipul Patil! 🚀  
 
-<h1 id="role" style="color: red;"></h1>
+<div align="center">
+  <h2>
+    <span class="blink"> Full-Stack Developer </span><br>
+    <span class="blink"> AI Enthusiast </span><br>
+    <span class="blink"> DevOps </span>
+  </h2>
+</div>
 
-<script>
-  const roles = ["🚀 Full-Stack Developer", "💡 AI Enthusiast", "⚙️ DevOps Engineer"];
-  let index = 0;
-
-  function updateText() {
-    document.getElementById("role").innerText = roles[index];
-    index = (index + 1) % roles.length;
-    setTimeout(updateText, 1000);
+<style>
+  .blink {
+    color: red;
+    font-weight: bold;
+    animation: blinker 1s linear infinite;
   }
+  @keyframes blinker {
+    50% {
+      opacity: 0;
+    }
+  }
+</style>
 
-  updateText();
-</script>
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=vipul-space23&color=blue)](https://github.com/vipul-space23)  
 
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=vipul-space23&color=blue)](https://github.com/vipul-space23)
-
-![GitHub Header](https://github.com/vipul-space23/vipul-space23/blob/main/banner.gif)
+![GitHub Header](https://github.com/vipul-space23/vipul-space23/blob/main/banner.gif)  
 
 ---
 
-## 👨‍💻 About Me: Crafting Intelligent Solutions 🌐
+## 👨‍💻 About Me: Crafting Intelligent Solutions 🌐  
 
 <details>
   <summary><b>(Click to Expand) </b>💡 I'm a passionate Software Developer... </summary>
   <br>
-  I'm a passionate <b>Software Developer</b> driven to create <b>impactful, user-centric solutions</b> with a blend of <b>AI and full-stack development</b>. My expertise spans Java, Python, and the MERN stack, allowing me to tackle diverse challenges from building <b>AI-powered tools</b> to crafting <b>dynamic web applications and interactive dashboards.</b>
+  🔹 Passionate <b>Software Developer</b> creating impactful, user-centric solutions.  
+  🔹 Skilled in <b>AI and full-stack development</b> (Java, Python, MERN stack).  
+  🔹 Experienced in building <b>AI-powered tools</b> and <b>interactive web applications</b>.  
+  🔹 Always exploring new technologies to enhance workflows and innovate.  
+</details>  
 
-  I'm constantly learning and eager to explore the latest technologies, streamline workflows, and contribute to innovative projects. I believe in the power of code to transform ideas into reality.
-</details>
+🌱 **Currently Focused On:**  
 
-🌱 **Currently Focused On:**
-
-*   **Revolutionizing Recruitment with AI:** Building intelligent solutions to optimize and enhance the job search and hiring process.
-*   **Elevating Web Experiences:** Refining my MERN stack skills and crafting seamless, engaging web applications.
-*   **Mastering the Cloud:** Delving into DevOps methodologies and cloud platforms (AWS, Azure) to build scalable and resilient systems.
+✅ **Revolutionizing Recruitment with AI** – Enhancing job search and hiring efficiency.  
+✅ **Elevating Web Experiences** – Advancing MERN stack skills for seamless applications.  
+✅ **Mastering the Cloud** – Learning DevOps and cloud platforms (AWS, Azure).  
 
 ---
+
 
 ## 🛠️ My Tech Arsenal:  Unleashing the Power of Code! 💥
 
