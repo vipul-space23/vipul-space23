@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Your Name]
+# 👋 Hey there! I'm [Vipul PAtil]
 
 ## 🚀 About Me
 
@@ -10,14 +10,20 @@
 
 ## 💡 Projects
 
-### 🔹 **[RentKaro](#)** *(React + Tailwind + MERN)*
-_A platform for renting tasks and objects._
+### 🔹 **[Fire Department Evaluation Software](#)** *(React + Node.js + AI Analytics)*
+_A tool for evaluating fire department efficiency using AI-powered insights._
 
-### 🔹 **[Job Portal](#)** *(MERN + AI Chatbot + Google Meet Integration)*
+![Fire Department Evaluation Software](https://via.placeholder.com/800x400?text=Fire+Department+Evaluation+Software)
+
+### 🔹 **[JobVoyage - Job Portal Website](#)** *(MERN + AI Chatbot + Google Meet Integration)*
 _A modern job-seeking platform with AI guidance._
 
-### 🔹 **[AI Interview Assistant](#)** *(Next.js + Llama 3 + Emotion Detection)*
-_Real-time interview analytics & insights._
+![JobVoyage - Job Portal Website](https://via.placeholder.com/800x400?text=JobVoyage+-+Job+Portal+Website)
+
+### 🔹 **[AI-Powered Finance Helper](#)** *(Flask + Llama 3 + Data Analysis)*
+_An AI-based finance assistant to help with budgeting and expense tracking._
+
+![AI-Powered Finance Helper](https://via.placeholder.com/800x400?text=AI-Powered+Finance+Helper)
 
 ## ⚡ Tech Stack
 
