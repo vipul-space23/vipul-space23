@@ -1,5 +1,20 @@
 # 👋 Hello, I'm Vipul Patil! 🚀 Software Innovator | AI Enthusiast | Full-Stack Developer 💡
 
+<h1 id="role" style="color: red;"></h1>
+
+<script>
+  const roles = ["🚀 Full-Stack Developer", "💡 AI Enthusiast", "⚙️ DevOps Engineer"];
+  let index = 0;
+
+  function updateText() {
+    document.getElementById("role").innerText = roles[index];
+    index = (index + 1) % roles.length;
+    setTimeout(updateText, 1000);
+  }
+
+  updateText();
+</script>
+
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=vipul-space23&color=blue)](https://github.com/vipul-space23)
 
 ![GitHub Header](https://github.com/vipul-space23/vipul-space23/blob/main/banner.gif)
