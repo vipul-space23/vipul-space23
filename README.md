@@ -2,9 +2,9 @@
 
 <div align="center">
   <h2>
-    <span class="blink"> Full-Stack Developer </span><br>
-    <span class="blink"> AI Enthusiast </span><br>
-    <span class="blink"> DevOps </span>
+    <span class="blink">Full-Stack Developer</span><br>
+    <span class="blink">AI Enthusiast</span><br>
+    <span class="blink">DevOps</span>
   </h2>
 </div>
 
@@ -12,6 +12,7 @@
   .blink {
     color: red;
     font-weight: bold;
+    font-size: 24px;
     animation: blinker 1s linear infinite;
   }
   @keyframes blinker {
@@ -30,7 +31,7 @@
 ## 👨‍💻 About Me: Crafting Intelligent Solutions 🌐  
 
 <details>
-  <summary><b>(Click to Expand) </b>💡 I'm a passionate Software Developer... </summary>
+  <summary><b>(Click to Expand)</b> 💡 I'm a passionate Software Developer...</summary>
   <br>
   🔹 Passionate <b>Software Developer</b> creating impactful, user-centric solutions.  
   🔹 Skilled in <b>AI and full-stack development</b> (Java, Python, MERN stack).  
@@ -41,11 +42,10 @@
 🌱 **Currently Focused On:**  
 
 ✅ **Revolutionizing Recruitment with AI** – Enhancing job search and hiring efficiency.  
-✅ **Elevating Web Experiences** – Advancing MERN stack skills for seamless applications.  
-✅ **Mastering the Cloud** – Learning DevOps and cloud platforms (AWS, Azure).  
+✅ **Elevating Web Experiences** – Advancing MERN stack skills to build seamless web apps.  
+✅ **Mastering the Cloud** – Exploring DevOps and cloud platforms like AWS and Azure.  
 
 ---
-
 
 ## 🛠️ My Tech Arsenal:  Unleashing the Power of Code! 💥
 
