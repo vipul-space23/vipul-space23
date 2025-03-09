@@ -4,10 +4,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SuperSupeng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
-### Hi there，I'm Subranium 🙋‍♂️
+### Hi there，I'm Vipul PAtil🙋‍♂️
 
-- Open source is something I'm interested in.
-- Artificial intelligence is an area I'm focusing on right now<div align="center">
+- Full-Stack Developer.
+- Artificial intelligence is an area I'm focusing on right now
+- Learning DevOps<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hello,+I'm+Vipul+Patil!;A+Passionate+Full-Stack+Developer;AI+Enthusiast+%26+DevOps+Explorer&font=Fira+Code¢er=true&width=600&height=120&color=f75d59&size=22" alt="Typing SVG" />
 
@@ -16,25 +17,6 @@
 ![GitHub Header](https://github.com/vipul-space23/vipul-space23/blob/main/banner.gif)
 
 </div>
-
----
-
-## 🚀 About Me: Crafting Intelligent Solutions 🌐
-
-<details>
-  <summary><b>(Click to Expand)</b> 💡 Passionate about building impactful solutions...</summary>
-  <br>
-  🔹 Full-Stack Developer with a passion for creating user-centric applications.
-  🔹 Specializing in AI and cloud technologies to enhance workflows.
-  🔹 Experienced in developing interactive web apps and AI-driven tools.
-  🔹 Always eager to learn and explore new technologies.
-</details>
-
-🌱 **Currently Focused On:**
-
-✅ **AI-Powered Innovation:** Revolutionizing industries with intelligent solutions.
-✅ **Full-Stack Mastery:** Building seamless web experiences with the MERN stack.
-✅ **Cloud Expertise:** Harnessing the power of cloud platforms for scalability and efficiency.
 
 ---
 
