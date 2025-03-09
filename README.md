@@ -1,95 +1,131 @@
-<div align="center" width="50">
+<p align="center">
+  <img alig src="https://github.com/SuperSupeng/SuperSupeng/blob/master/about.gif" />
+</p>
 
-<img src="https://github.com/vipul-space23/vipul-space23/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/vipul-space23" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/vipul-space23/vipul-space23/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/vipul-space23" alt="Workspace"  width="40%"/><br>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SuperSupeng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+### Hi there，I'm Subranium 🙋‍♂️
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME) <be>
+- Open source is something I'm interested in.
+- Artificial intelligence is an area I'm focusing on right now<div align="center">
 
-</details>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hello,+I'm+Vipul+Patil!;A+Passionate+Full-Stack+Developer;AI+Enthusiast+%26+DevOps+Explorer&font=Fira+Code¢er=true&width=600&height=120&color=f75d59&size=22" alt="Typing SVG" />
 
-![Totals Hits](https://komarev.com/ghpvc/?username=vipul-space23&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvipul-space23&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/Vipul-grey?style=flat&logo=telegram)](YOUR_TELEGRAM_LINK_HERE) <br>
-</div>
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=vipul-space23&color=blue)](https://github.com/vipul-space23)
 
-<hr></hr>
-
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-dart
-// tools_I_use organized
-
-class About extends Me {
-  const myTools = {
-    "ProgramingLanguages" : { "Java", "Python", "Javascript"},
-    "Frontend" : { "React", "HTML", "CSS", "Tailwind CSS"},
-    "Backend" : { "Node.js", "Express.js", "Flask" },
-    "Database" : { "MySQL", "MongoDB" },
-    "DevOps": { "Docker", "Kubernetes", "Terraform", "AWS", "Azure", "Git"},
-    "Editors" : { "Vscode"},
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Figma" }
-  };
-}
-
-
--  <img alt="GIF" src="https://github.com/vipul-space23/vipul-space23/blob/main/images/Developer.gif" width="25" />   I’m currently focused on **AI-powered tools and mastering the MERN stack**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/vipul-space23/vipul-space23/blob/main/images/hyperkitty.gif?raw=true" width="20" />    I enjoy exploring **DevOps and cloud platforms**. <br>
-- <img src="https://github.com/vipul-space23/vipul-space23/blob/main/images/message.gif?raw=true" width="25" />   Ask me about **Software Development, AI, or anything**. <br>
-- <img src="https://github.com/vipul-space23/vipul-space23/blob/main/images/letterbox.gif?raw=true" width="25" />   Find me on Telegram: **[Vipul](YOUR_TELEGRAM_LINK_HERE)**<br>
--   <img src="https://github.com/vipul-space23/vipul-space23/blob/main/images/lightning.gif?raw=true" width="12" />    Fun fact: A group of owls is called a **parliament**.<br>
-
-<div align="center" >
-<a  href="https://github.com/vipul-space23">
-
-<img src="https://raw.githubusercontent.com/vipul-space23/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/vipul-space23/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/vipul-space23/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-
-<img align="center" src="https://raw.githubusercontent.com/vipul-space23/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
-
-<hr></hr>
-
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-     
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-     
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
-<!--img src="https://github.com/vipul-space23/vipul-space23/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+![GitHub Header](https://github.com/vipul-space23/vipul-space23/blob/main/banner.gif)
 
 </div>
+
+---
+
+## 🚀 About Me: Crafting Intelligent Solutions 🌐
+
+<details>
+  <summary><b>(Click to Expand)</b> 💡 Passionate about building impactful solutions...</summary>
+  <br>
+  🔹 Full-Stack Developer with a passion for creating user-centric applications.
+  🔹 Specializing in AI and cloud technologies to enhance workflows.
+  🔹 Experienced in developing interactive web apps and AI-driven tools.
+  🔹 Always eager to learn and explore new technologies.
+</details>
+
+🌱 **Currently Focused On:**
+
+✅ **AI-Powered Innovation:** Revolutionizing industries with intelligent solutions.
+✅ **Full-Stack Mastery:** Building seamless web experiences with the MERN stack.
+✅ **Cloud Expertise:** Harnessing the power of cloud platforms for scalability and efficiency.
+
+---
+
+## 🛠️ My Tech Arsenal: Unleashing the Power of Code! 💥
+
+### 💻 Languages:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 🌐 Frontend:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+### ⚙️ Backend:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
+
+### 🗄️ Databases:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### ☁️ DevOps & Tools:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 🏆 Featured Projects: Showcasing Innovation 🌟
+
+### 🤖 AI-Powered Interview Assistant 🌠
+🔗 **[GitHub](https://github.com/vipul-space23/AI-Interview-Assistant)**
+*  AI-driven interview tool with emotion detection & smart question generation.
+
+### 💰 AI-Powered Finance Helper 💡
+🔗 **[GitHub](https://github.com/vipul-space23/AI-Powered-Finance-Helper)**
+*  AI chatbot for financial inclusion & personalized government scheme updates.
+
+### 🔥 Fire Department Evaluation System 🏢
+🔗 **[GitHub](https://github.com/vipul-space23/Fire-Department-Evaluation-Software.git)**
+*  Platform for managing fire inspection requests and issuing NOCs.
+
+### 🌐 JobVoyage: Connecting Talent with Opportunity 🤝
+🔗 **[GitHub](https://github.com/vipul-space23/JobVoyage-JOB-PORTAL-WEBSITE.git)**
+*  Job portal connecting job seekers and employers.
+
+---
+
+## 📊 GitHub Activity: Tracking My Coding Journey 📈
+
+[![Vipul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vipul-space23&show_icons=true&theme=radical)](https://github.com/vipul-space23)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipul-space23&layout=compact)
+
+---
+
+## 🤝 Let's Connect! Reach Out and Collaborate! 📧
+
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-space23)
+[![Follow me on Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](YOUR_TWITTER_LINK_HERE)  <!-- Replace with your Twitter link if you have one-->
+[![Send me an email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vipulpatil2500@gmail.com)
+
+---
+
+## Fun Facts and Interactive Elements:
+
+<details>
+  <summary>🤔 Random Programming Joke</summary>
+  <br>
+  ```javascript
+  // Why did the programmer quit his job?
+  // Because he didn't get arrays!
