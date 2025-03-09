@@ -1,8 +1,5 @@
-Here's an updated version of your GitHub profile README, including your **AI-powered interview project** along with a refined layout, better headings, and skill icons for a more visually appealing look. 🚀  
 
----
-
-# 🌟 Welcome to My GitHub Profile! 🚀  
+# 🌟 👋 Hey there! I'm [Vipul Patil] 🚀  
 
 ![GitHub Profile Animation](https://github.com/vipul-space23/vipul-space23/blob/main/banner.gif)  
 
