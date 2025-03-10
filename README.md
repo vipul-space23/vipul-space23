@@ -1,23 +1,33 @@
 <div align="center" style="background-color:#f0f0f0; padding: 20px; border-radius: 10px;">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hello,+I'm+Vipul+Patil!;Full-Stack+Developer+|+AI+&+DevOps+Enthusiast;Building+Scalable+&+Innovative+Solutions&font=Fira+Code¢er=true&width=600&height=50&color=F75D59&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hello,+I'm+Vipul+Patil!;🚀+Full-Stack+Developer+|+🖥️+DevOps+|+🤖+AI+Enthusiast;+Building+Scalable+&+Innovative+Solutions!&font=Fira+Code&center=true&width=900&height=50&color=FF5733&size=24" alt="Typing SVG" />
 
-<img src="https://github.com/vipul-space23/vipul-space23/blob/main/banner.gif" alt="GitHub Header" style="border-radius: 10px;"/>
+
+  <br />
+
+  <img src="https://github.com/vipul-space23/vipul-space23/blob/main/banner.gif" alt="GitHub Header" style="border-radius: 10px; width: 100%; max-width: 800px;"/>
 
 </div>
 
 ---
 
-<div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px;">
+<div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px; word-break: break-word;">
 
-## 🚀 About Me [![GitHub Profile Views](https://komarev.com/ghpvc/?username=vipul-space23&color=blue)](https://github.com/vipul-space23)
+  <h2>🚀 About Me 
+    <img src="https://komarev.com/ghpvc/?username=vipul-space23&color=blue" alt="GitHub Profile Views" />
+  </h2>
 
-🔹 Passionate **Full-Stack Developer** | **DevOps Explorer** | **AI Enthusiast**
-🔹 Building Scalable Web Applications & Cloud Solutions  
-🔹 Always Learning & Exploring New Technologies  
-🔹 Open to Collaborations & Innovative Projects
+  🔹 Passionate <strong>Full-Stack Web Developer</strong> | 🌍 DevOps Explorer | 🤖 AI Enthusiast <br>
+  🔹 Building Scalable Web Applications & Cloud Solutions ☁️<br>
+  🔹 Always Learning 📚 & Exploring New Technologies 🔍<br>
+  🔹 Open to Collaborations 🤝 & Innovative Projects 🚀
 
 </div>
+
+
+---
+
+<div style="background-color: #f9f5f0; padding: 20px; border-radius: 10px;">
 
 ---
 
