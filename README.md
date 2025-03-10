@@ -1,6 +1,6 @@
 <div align="center" style="background-color:#f0f0f0; padding: 20px; border-radius: 10px;">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hello,+I'm+Vipul+Patil!;🚀+Full-Stack+Developer+|+🖥️+DevOps+|+🤖+AI+Enthusiast;+Building+Scalable+&+Innovative+Solutions!&font=Fira+Code&center=true&width=900&height=50&color=FF5733&size=24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hello,+I'm+Vipul+Patil!;🚀+Full-Stack+Developer+|+🖥️+DevOps+|+🤖+AI+Enthusiast;+Building+Scalable+&+Innovative+Solutions!&font=Fira+Code&center=true&width=900&height=50&color=FFFFFF&size=24" alt="Typing SVG" />
 
 
   <br />
