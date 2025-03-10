@@ -17,7 +17,6 @@
 🔹 Always Learning & Exploring New Technologies  
 🔹 Open to Collaborations & Innovative Projects
 
-
 </div>
 
 ---
@@ -71,14 +70,12 @@
   </tr>
 </table>
 
-<a href="https://github.com/vipul-space23">
-  <img src="https://github-profile-trophy.vercel.app/?username=vipul-space23&theme=radical"/>
-</a>
-
-<!-- GitHub Contribution Streak -->
-<div align="left" style="margin-top:52px; margin-bottom: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipul-space23&theme=radical" alt="Vipul's GitHub Streak" />
+<div style="margin-bottom: 20px;"> <!-- Added margin here -->
+  <a href="https://github.com/vipul-space23">
+    <img src="https://github-profile-trophy.vercel.app/?username=vipul-space23&theme=radical"/>
+  </a>
 </div>
+
 
 </div>
 
