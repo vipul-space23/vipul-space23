@@ -12,7 +12,7 @@
 
 ## 🚀 About Me [![GitHub Profile Views](https://komarev.com/ghpvc/?username=vipul-space23&color=blue)](https://github.com/vipul-space23)
 
-🔹 Passionate **Full-Stack Developer** | **DevOps** Explorer | **AI** Enthusiast  
+🔹 Passionate **Full-Stack Developer** | **DevOps Explorer** | **AI Enthusiast**
 🔹 Building Scalable Web Applications & Cloud Solutions  
 🔹 Always Learning & Exploring New Technologies  
 🔹 Open to Collaborations & Innovative Projects
